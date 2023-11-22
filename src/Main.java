@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int x = 100; // сумма начального счета
+        int score = 100; // сумма начального счета
         int deposit = 300; // сумма  пополнения
 
         int bonus;
@@ -15,7 +15,7 @@ public class Main {
 
 
 
-        System.out.println(x + deposit + bonus);
+        System.out.println(score + deposit + bonus);
 
     }
 }
